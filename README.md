@@ -1,34 +1,44 @@
 # Ryan Kenth Morales
 
-Full-Stack Software Engineer with 8 years of experience building web applications, APIs, data pipelines, and cloud systems.
+Backend-first full-stack engineer. For 8 years I've built APIs, data pipelines and cloud infrastructure for US startups and Philippine enterprises, mostly with Python, TypeScript and PostgreSQL.
 
-- **Frontend:** React, TypeScript, JavaScript, SvelteKit
-- **Backend & Data:** Python, FastAPI, SQLAlchemy, Node.js, NestJS, Express.js, PostgreSQL (PostGIS), MySQL, MongoDB, Redis
-- **Cloud & Ops:** Docker, GitHub Actions, GCP, DigitalOcean, Azure, AWS, Grafana, Prometheus
-- **Location:** Bulacan, Philippines (working with US and global teams)
+**[Portfolio](https://ryan-dev28.github.io)** · **[LinkedIn](https://www.linkedin.com/in/ryan-kenth-morales-3403ba183)** · **[Email](mailto:ryankenthmorales@gmail.com)**
 
----
+Bulacan, Philippines (UTC+8) · Remote with US and global teams · Open to backend and full-stack roles
 
-### What I Build
-
-- **Frontend & Full-Stack:** Web apps in React, SvelteKit, and TypeScript wired to REST APIs, auth flows, and live data.
-- **APIs & Databases:** Services in FastAPI and NestJS with PostgreSQL (including PostGIS for location data), concurrency-safe writes, and automated cloud backup pipelines.
-- **Pipelines, Security & Ops:** SEC filing data pipelines and backup scripts in Python, ClamAV upload scanning, NATS messaging, and CI/CD/cloud deployments (Azure Container Apps, Docker, GitHub Actions).
+<p>
+  <img src="https://skillicons.dev/icons?i=py,fastapi,ts,nodejs,nestjs,react,svelte,postgres,mysql,mongodb,redis,docker,githubactions,gcp,azure,aws,grafana,prometheus&perline=9" alt="Python, FastAPI, TypeScript, Node.js, NestJS, React, Svelte, PostgreSQL, MySQL, MongoDB, Redis, Docker, GitHub Actions, Google Cloud, Azure, AWS, Grafana, Prometheus" />
+</p>
 
 ---
 
-### Recent Roles
+### Recent work
 
-- **RE2** — Migrated 13 backend features to FastAPI and SQLAlchemy on Cloud SQL (PostgreSQL/PostGIS) alongside SvelteKit/TypeScript work.
-- **SPATSCORE** — Built sports analytics APIs, single-team licensing tiers, role-based visibility, and an academic enhancements module (student assistant invites, calendar/tutoring integration, RBAC, compliance metrics), alongside automated PostgreSQL backups to Azure Blob Storage, a ClamAV NATS scanning service, and Azure Container Apps deployments.
-- **N-LITE Sports** — Led backend and DevOps for APIs serving 10K+ daily active users across TypeScript, React, NestJS, and handled monitoring with Grafana and Prometheus.
-- **Earlier roles:** Intelegencia, Pointwest Innovations Corp., Whitecloak Technologies Inc., and Kestrel IMC.
+**RE²** · Full Stack Engineer · 2026–present
+Migrated 13 backend features from Supabase to FastAPI and SQLAlchemy on Cloud SQL (PostgreSQL/PostGIS). Secured the API with Firebase token verification, fixed lost updates on concurrent writes with row-level locking, and built a document vault on Cloud Storage signed URLs.
+
+**SPATSCORE** · Lead Backend & DevOps Engineer · 2025–2026
+Built sports analytics APIs, licensing tiers, role-based access and an academic module. Integrated Stripe payments, ran background jobs with BullMQ on Redis, and set up ClamAV file scanning over NATS, Dapr, automated backups and Azure Container Apps deployments.
+
+**N-LITE Sports** · Senior Full Stack Engineer · 2023–2026
+Led backend and DevOps for APIs serving 10K+ daily active users. Cut deployment time by 80% and API response time by 40% with Docker, GitHub Actions, Redis caching and query tuning, monitored with Grafana and Prometheus.
+
+**Earlier:** Intelegencia, Pointwest, Whitecloak and Kestrel IMC (2018–2023). Microservices, database design, OAuth and payment flows for financial, insurance, real estate and university platforms.
 
 ---
 
-### Notes
+### Stack
 
-Most production repositories from my work history are private under client and employer agreements. Happy to walk through architecture decisions, debugging stories, or system design directly.
+| | |
+|---|---|
+| **Backend** | Python, FastAPI, SQLAlchemy, Pydantic, Node.js, NestJS, Express.js |
+| **Frontend** | TypeScript, JavaScript, React, SvelteKit |
+| **Data** | PostgreSQL / PostGIS, MySQL, MongoDB, Redis |
+| **Messaging & payments** | BullMQ, NATS, Dapr, Stripe |
+| **Cloud & ops** | Google Cloud, Azure, AWS, DigitalOcean, Docker, GitHub Actions, Grafana, Prometheus |
 
-- **Email:** ryankenthmorales@gmail.com
-- **LinkedIn:** [ryan-kenth-morales-3403ba183](https://linkedin.com/in/ryan-kenth-morales-3403ba183)
+---
+
+### About the repos here
+
+Most of my production work lives in private client and employer repositories. I'm happy to walk through architecture, debugging stories or system design on a call. The **[portfolio](https://ryan-dev28.github.io)** has the full picture.
