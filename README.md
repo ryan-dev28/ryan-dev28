@@ -12,15 +12,16 @@ Full-Stack Software Engineer with 8 years of experience building web application
 ### What I Build
 
 - **Frontend & Full-Stack:** Web apps in React, SvelteKit, and TypeScript wired to REST APIs, auth flows, and live data.
-- **APIs & Databases:** Services in FastAPI and NestJS with PostgreSQL (including PostGIS for location data) and concurrency-safe writes.
-- **Pipelines, Security & Ops:** SEC filing data pipelines and backup scripts in Python, stream upload scanning with ClamAV, and Docker/GitHub Actions CI/CD
+- **APIs & Databases:** Services in FastAPI and NestJS with PostgreSQL (including PostGIS for location data), concurrency-safe writes, and automated cloud backup pipelines.
+- **Pipelines, Security & Ops:** SEC filing data pipelines and backup scripts in Python, ClamAV upload scanning, NATS messaging, and CI/CD/cloud deployments (Azure Container Apps, Docker, GitHub Actions).
 
 ---
 
 ### Recent Roles
 
-- **RE2** — Migrated 13 backend features to FastAPI and SQLAlchemy on Cloud SQL (PostgreSQL/PostGIS) alongside SvelteKit/TypeScript work, set up Cloud Scheduler/Cloud Run Jobs and signed-URL storage, and caught a location-scoring coordinate bug during QA.
-- **N-LITE Sports** — Led backend and DevOps for APIs serving 10K+ daily active users across TypeScript, React, NestJS, and Python systems, and handled monitoring with Grafana and Prometheus.
+- **RE2** — Migrated 13 backend features to FastAPI and SQLAlchemy on Cloud SQL (PostgreSQL/PostGIS) alongside SvelteKit/TypeScript work.
+- **SPATSCORE** — Built sports analytics APIs, single-team licensing tiers, role-based visibility, and an academic enhancements module (student assistant invites, calendar/tutoring integration, RBAC, compliance metrics), alongside automated PostgreSQL backups to Azure Blob Storage, a ClamAV NATS scanning service, and Azure Container Apps deployments.
+- **N-LITE Sports** — Led backend and DevOps for APIs serving 10K+ daily active users across TypeScript, React, NestJS, and handled monitoring with Grafana and Prometheus.
 - **Earlier roles:** Intelegencia, Pointwest Innovations Corp., Whitecloak Technologies Inc., and Kestrel IMC.
 
 ---
